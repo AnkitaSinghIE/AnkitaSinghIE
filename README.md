@@ -8,7 +8,9 @@
 <li><g-emoji class="g-emoji" alias="raised_hands" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64c.png">🙌</g-emoji> I'm always up for collaborative learning!</li>
 
 </ul>
-<p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/67543895/119683791-92dd1680-be61-11eb-84a6-b44625c4096c.png"><img align="right" alt="Aspiring Coder" width="48%" height="50%" src="https://user-images.githubusercontent.com/67543895/119683791-92dd1680-be61-11eb-84a6-b44625c4096c.png" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://ibb.co/TTPvVGj"><img align="right" alt="Aspiring Coder" width="48%" height="50%" src="https://i.ibb.co/RSQvxKr/gitprofile.jpg" style="max-width:100%;"></a>
+ 
+</p>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
