@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **ankita.singh.200020@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1d-fU1zeqqMINEc4JvTitJDbYCaGhVayN/view?usp=sharing)](Ankita_Singh)
+- 📄 Know about my experiences [Click me](https://drive.google.com/file/d/1d-fU1zeqqMINEc4JvTitJDbYCaGhVayN/view?usp=sharing)![image](https://user-images.githubusercontent.com/85924533/150925943-730de1ed-e6d6-4f1b-ae02-1b19b5846ca5.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
