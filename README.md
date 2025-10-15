@@ -2,9 +2,10 @@
 <h3 align="center">An Assitant Data Engineer and coding enthusiast from India</h3>
 <h3 align="center">Love to explore my learning </h3>
 <ul>
-<li><g-emoji class="g-emoji" alias="raising_hand_woman" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64b-2640.png">🙋‍♀️</g-emoji> Microsoft Learn Student Ambassador</li>
+ <li>Assitant Data Engineer in PepsiCo</li>
+<li><g-emoji class="g-emoji" alias="raising_hand_woman" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64b-2640.png">🙋‍♀️</g-emoji> Ex Microsoft Learn Student Ambassador</li>
 
-<li><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👯</g-emoji> I’m looking to collaborate on projects in web development!</li>
+<li><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👯</g-emoji> I’m looking to collaborate on projects in Data Analytics Domain!</li>
 <li><g-emoji class="g-emoji" alias="raised_hands" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64c.png">🙌</g-emoji> I'm always up for collaborative learning!</li>
 
 </ul>
@@ -12,7 +13,7 @@
  
 </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Data Analytics Skill (Power BI, Python, Excel and SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnkitaSinghIE/](https://github.com/AnkitaSinghIE/)
 
