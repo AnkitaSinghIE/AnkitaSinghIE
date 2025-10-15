@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankita Singh</h1>
-<h3 align="center">A passionate full stack web Developer and coding enthusiast from India</h3>
+<h3 align="center">An Assitant Data Engineer and coding enthusiast from India</h3>
 <h3 align="center">Love to explore my learning </h3>
 <ul>
 <li><g-emoji class="g-emoji" alias="raising_hand_woman" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64b-2640.png">🙋‍♀️</g-emoji> Microsoft Learn Student Ambassador</li>
