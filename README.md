@@ -14,8 +14,8 @@
  
 </p>
 
-- 🌱 I’m currently learning **Data Analytics Skill (Power BI, Python, Excel and SQL**
-
+- 🌱 I’m currently learning **Data Analytics Skills (Power BI, Python, Excel and SQL)**
+s
 - 👨‍💻 All of my projects are available at [https://github.com/AnkitaSinghIE/](https://github.com/AnkitaSinghIE/)
 
 - 📫 How to reach me **ankita.singh.200020@gmail.com**
