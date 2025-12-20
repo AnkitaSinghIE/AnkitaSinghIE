@@ -21,7 +21,7 @@
   
 - 👨‍💻 All of my projects are available at [https://github.com/AnkitaSinghIE/](https://github.com/AnkitaSinghIE/)
 
-- 📫 How to reach me **ankita.singh.200020@gmail.com**
+- 📫 [How to reach me](https://linktr.ee/AnkitaSinghIIIE)
 
 - 📄 Know about my experiences [Click me](https://www.linkedin.com/in/ankitasingh007/)
 
