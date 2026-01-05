@@ -1,40 +1,31 @@
-<h1 align="center">Hi 👋, I'm Ankita Singh</h1>
-<h3 align="center">An Assitant Data Engineer and coding enthusiast from India</h3>
-<h3 align="center">Love to explore my learning </h3>
-<ul>
+
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ankita Singh
+=====================================================================================================================================
+
+Assistant Data Engineer at PepsiCo
  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkitaSinghIE&theme=default&show_icons=true&hide_border=true&count_private=true" alt="AnkitaSinghIE's GitHub Stats" />
-</ul>
- <li>Assitant Data Engineer in PepsiCo</li>
+  
 <li><g-emoji class="g-emoji" alias="raising_hand_woman" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64b-2640.png">🙋‍♀️</g-emoji> Ex Microsoft Learn Student Ambassador</li>
 </p>
 
-<li><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👯</g-emoji> I’m looking to collaborate on projects in Data Analytics Domain!</li>
-<li><g-emoji class="g-emoji" alias="raised_hands" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64c.png">🙌</g-emoji> I'm always up for collaborative learning!</li>
 
-</ul>
-<p><a target="_blank" rel="noopener noreferrer" href="https://ibb.co/TTPvVGj"><img align="right" alt="Aspiring Coder" width="48%" height="50%" src="https://i.ibb.co/RSQvxKr/gitprofile.jpg" style="max-width:100%;"></a>
- 
-</p>
 
-- 🌱 I’m currently learning **Data Analytics Skills (Power BI, Python, Excel and SQL)**
-  
-- 👨‍💻 All of my projects are available at [https://github.com/AnkitaSinghIE/](https://github.com/AnkitaSinghIE/)
+-----------------------
 
-- 📫 [How to reach me](https://linktr.ee/AnkitaSinghIIIE)
+Driven data professional with proven expertise in data analytics, Power BI, and data pipeline troubleshooting. Currently focused on leveraging analytical skills and technical acumen to deliver actionable insights and support business growth. With a strong foundation in data analysis, technical documentation, and collaborative projects, I am passionate about continuous learning—exploring AI, Python programming, and the latest advancements in analytics. My experience includes hands-on work in Azure DevOps, SQL troubleshooting, and creating structured solutions for complex data challenges. Actively pursuing opportunities to advance in data analytics and contribute value through clarity, accuracy, and a detail-oriented approach.
 
-- 📄 Know about my experiences [Click me](https://www.linkedin.com/in/ankitasingh007/)
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [Portfolio](http://ankita-singh-data-engine-3zmaccr.gamma.site/)
+* ✉️  You can contact me at [ankita.singh.200020@gmail.com](mailto:ankita.singh.200020@gmail.com)
+* 🧠  I'm currently learning Data Analytics skills: Python, SQL, Power BI and Excel
+* 👥  I'm looking to collaborate on Data Engineeering and Analytics projects
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ankitas24702389" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankitas24702389" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ankitasingh007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitasingh007" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16243519/ankitasingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16243519/ankitasingh" height="30" width="40" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitaSinghIE&theme=default&show_icons=true&hide_border=true&layout=compact" alt="AnkitaSinghIE's GitHub Stats" width="400" height="200" />
-</p>p>
+### Socials
+
+<p align="left"> <a href="https://www.github.com/AnkitaSinghIE" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/ankitasingh007/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+
 
