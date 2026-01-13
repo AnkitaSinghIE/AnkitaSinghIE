@@ -32,8 +32,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankitasingh007) 
 
 # 📊 GitHub Stats:
-
-
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=dark&fontFamily=Abril%20Fatface&preferLogin=true">    <img  alt="AnkitaSinghIE's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/AnkitaSinghIE?cardType=octocat&theme=dark&fontFamily=Abril%20Fatface&preferLogin=true" />  </a>
 
 
 
