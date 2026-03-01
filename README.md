@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ankita Singh</h1>
-
 <h3 align="center">An Assitant Data Engineer and coding enthusiast </h3>
 <h3 align="center">Love to explore my learning </h3>
 
