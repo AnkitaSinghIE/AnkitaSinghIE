@@ -21,10 +21,13 @@
 - 📄 Know about my experiences [Click me](https://www.linkedin.com/in/ankitasingh007/)
 * 🖥️  See my portfolio at [Portfolio](http://ankita-singh-data-engine-3zmaccr.gamma.site/)
 * 👥  I'm looking to collaborate on Data Engineeering and Analytics projects
-## 📚 Certifications:
-- Azure Fundamentals - AZ 900
-- Azure Data Fundamentals - DP 900
-- Azure AI Fundamentals - AI 900
+## 🎓 Certifications
+<p>
+  <img src="https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/DP--900-Azure%20Data%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/AI--900-Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankitasingh007) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankita.singh.200020@gmail.com) 
