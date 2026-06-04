@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankita Singh</h1> 
-<h3 align="center">🚀 Assistant Data Engineer <br/> Coding Enthusiast💻& Tech Explorer </h3>
+<h3 align="center">🚀 Data Engineer | 📊 Analytics Enthusiast | 🔍 Problem Solver</h3>
 <h3 align="center">Love to explore my learning </h3>
 
 <h3 align="center"> 🌍  I'm based in India</h3>
@@ -38,5 +38,14 @@
 ![](https://github-readme-stats.shion.dev/api?username=AnkitaSinghIE&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AnkitaSinghIE&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
- 
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ankita-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
