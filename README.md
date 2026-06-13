@@ -28,6 +28,15 @@
   <img src="https://img.shields.io/badge/AI--900-Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </p>
 
+## 🏆 Achievements
+<p align="left">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" />
+</p>
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankitasingh007) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankita.singh.200020@gmail.com) 
@@ -44,15 +53,7 @@
 ![](https://github-readme-activity-graph.vercel.app/graph?username=AnkitaSinghIE&theme=github-dark)
 
 
-## 🏆 Achievements
-<p align="left">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" />
-</p>
 
----
 ## 🤝 Connect with Me
 
 <p align="center">
