@@ -34,11 +34,23 @@
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![Ankita's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnkitaSinghIE&theme=dark&cache_seconds=1)``![](https://github-readme-stats.shion.dev/api/top-langs/?username=AnkitaSinghIE&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+# 📊 GitHub Stats:
+<h2>📊 GitHub Stats</h2>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AnkitaSinghIE&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=AnkitaSinghIE&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+<br><br>
+![](https://github-readme-activity-graph.vercel.app/graph?username=AnkitaSinghIE&theme=github-dark)
+
+
+## 🏆 Achievements
+<p align="left">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" />
+</p>
 
 ---
 ## 🤝 Connect with Me
