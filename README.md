@@ -1,67 +1,89 @@
-<h1 align="center">Hi 👋, I'm Ankita Singh</h1> 
+<h1 align="center">Hi 👋, I'm Ankita Singh</h1>
 <h3 align="center">🚀 Data Engineer | 📊 Analytics Enthusiast | 🔍 Problem Solver</h3>
-<h3 align="center">Love to explore my learning </h3>
+<p align="center">Passionate about transforming data into meaningful insights</p>
 
-<h3 align="center"> 🌍  I'm based in India</h3>
+---
 
---------------------------
-# 💫 About Me:
-<ul>
- <li>👩‍💻 Assistant Data Engineer at PepsiCo</li>
- <li><g-emoji class="g-emoji" alias="raising_hand_woman" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64b-2640.png">🙋‍♀️</g-emoji> Ex Microsoft Learn Student Ambassador</li>
-<li><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👯</g-emoji> I’m looking to collaborate on projects in Data Analytics Domain!</li>
-<li><g-emoji class="g-emoji" alias="raised_hands" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64c.png">🙌</g-emoji> I'm always up for collaborative learning!</li>
-</ul>
-<p><a target="_blank" rel="noopener noreferrer" href="https://ibb.co/TTPvVGj"><img align="right" alt="Aspiring Coder" width="48%" height="50%" src="https://i.ibb.co/RSQvxKr/gitprofile.jpg" style="max-width:100%;"></a>
-</p>
+## 🌍 About Me
 
-* 🧠  I'm currently learning Data Analytics skills: Python, SQL, Power BI and Excel
-* 👨‍💻 All of my projects are available at [GitHub-Ankita](https://github.com/AnkitaSinghIE/)
-* 📫 [How to reach me](https://linktr.ee/AnkitaSinghIIIE)
-* 📄 [LinkedIn-Ankita Singh](https://www.linkedin.com/in/ankitasingh007/)
-* 🖥️ [Portfolio Website](https://ankita-singh-2mc1e19.gamma.site/)
-* 👥 I'm looking to collaborate on Data Engineeering and Analytics projects
-## 🎓 Certifications
-<p>
-  <img src="https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /><br/>
-  <img src="https://img.shields.io/badge/DP--900-Azure%20Data%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /><br/>
-  <img src="https://img.shields.io/badge/AI--900-Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-</p>
+<img align="right" alt="coding" width="40%" src="https://i.ibb.co/RSQvxKr/gitprofile.jpg">
 
-## 🏆 Achievements
-<p align="left">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" />
+- 👩‍💻 Assistant Data Engineer at **PepsiCo**
+- 🙋‍♀️ Former **Microsoft Learn Student Ambassador**
+- 👯 Looking to collaborate on **Data Analytics & Data Engineering projects**
+- 🙌 Strong believer in **collaborative learning**
+- 🧠 Currently learning: **Python, SQL, Power BI, Excel**
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ankitasingh007/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ankita%20Singh-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:ankita.singh.200020@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/AnkitaSinghIE/">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankitasingh007) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankita.singh.200020@gmail.com) 
+## 🌐 Portfolio & Links
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+- 👨‍💻 [GitHub Projects](https://github.com/AnkitaSinghIE/)
+- 🌐 [Portfolio Website](https://ankita-singh-2mc1e19.gamma.site/)
+- 📫 [All Links](https://linktr.ee/AnkitaSinghIIIE)
 
-# 📊 GitHub Stats:
-<h2>📊 GitHub Stats</h2>
+---
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AnkitaSinghIE&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=AnkitaSinghIE&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
-<br><br>
-![](https://github-readme-activity-graph.vercel.app/graph?username=AnkitaSinghIE&theme=github-dark)
+## 🎓 Certifications
 
-
-
-## 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ankita-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:ankita.singhdev21gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
+<p align="left">
+  <img src="https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/></p>
+  <img src="https://img.shields.io/badge/DP--900-Azure_Data_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI--900-Azure_AI_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
 
+---
+
+## 🏆 Achievements
+![](https://komarev.com/ghpvc/?username=AnkitaSinghIE&color=blue&style=flat)
+
+<p align="left">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" />
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,azure,java,javascript" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AnkitaSinghIE&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="160"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitaSinghIE&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitaSinghIE&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🚀 Fun Fact
+
+✨ *"Data is the new oil, but insights are the real power!"*
+
+---
