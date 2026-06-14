@@ -16,11 +16,11 @@
 </p>
 
 * 🧠  I'm currently learning Data Analytics skills: Python, SQL, Power BI and Excel
-- 👨‍💻 All of my projects are available at [https://github.com/AnkitaSinghIE/](https://github.com/AnkitaSinghIE/)
-- 📫 [How to reach me](https://linktr.ee/AnkitaSinghIIIE)
-- 📄 Know about my experiences [Click me](https://www.linkedin.com/in/ankitasingh007/)
-* 🖥️  See my portfolio at [Portfolio](http://ankita-singh-data-engine-3zmaccr.gamma.site/)
-* 👥  I'm looking to collaborate on Data Engineeering and Analytics projects
+* 👨‍💻 All of my projects are available at [GitHub-Ankita](https://github.com/AnkitaSinghIE/)
+* 📫 [How to reach me](https://linktr.ee/AnkitaSinghIIIE)
+* 📄 [LinkedIn-Ankita Singh](https://www.linkedin.com/in/ankitasingh007/)
+* 🖥️ [Portfolio Website](https://ankita-singh-2mc1e19.gamma.site/)
+* 👥 I'm looking to collaborate on Data Engineeering and Analytics projects
 ## 🎓 Certifications
 <p>
   <img src="https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /><br/>
