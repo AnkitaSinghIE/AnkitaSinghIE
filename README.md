@@ -70,12 +70,9 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-
-</p>
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=AnkitaSinghIE&theme=dark&hide_border=false&include_all_commits=false&count_private=false) &nbsp;
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AnkitaSinghIE&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitaSinghIE&theme=tokyo-night&hide_border=true&area=true" />
 </p>
