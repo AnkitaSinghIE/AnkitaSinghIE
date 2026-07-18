@@ -25,6 +25,7 @@
   <a href="mailto:ankita.singh.200020@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
+  <br>
   <a href="https://github.com/AnkitaSinghIE/">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
