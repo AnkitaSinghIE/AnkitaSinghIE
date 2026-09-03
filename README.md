@@ -66,14 +66,14 @@
 
 ## 💻 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,azure,java,javascript" />
+<p align="left">  
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,azure,java,javascript" />
 </p>
 
 ---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=AnkitaSinghIE&theme=dark&hide_border=false&include_all_commits=true&count_private=true) &nbsp;
+![](https://github-readme-stats.shion.dev/api?username=AnkitaSinghIE&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AnkitaSinghIE&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
