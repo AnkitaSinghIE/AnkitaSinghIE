@@ -6,7 +6,7 @@
 
 ## 🌍 About Me
 
-<img align="right" width="500" height="350" alt="Designer" src="https://github.com/user-attachments/assets/7e5e4e2a-1cb8-4593-a02a-36426e640b90" />
+<img align="right" width="500" height="360" alt="Designer" src="https://github.com/user-attachments/assets/7e5e4e2a-1cb8-4593-a02a-36426e640b90" />
 
 - 👩‍💻 Assistant Data Engineer at **PepsiCo**
 - 🙋‍♀️ Former **Microsoft Learn Student Ambassador**
