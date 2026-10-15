@@ -8,7 +8,7 @@
 
 ## 🌍 About Me
 
-<img align="right" width="450" height="300" alt="Designer" src="https://github.com/user-attachments/assets/7e5e4e2a-1cb8-4593-a02a-36426e640b90" />
+<img align="right" width="500" height="400" alt="Designer" src="https://github.com/user-attachments/assets/7e5e4e2a-1cb8-4593-a02a-36426e640b90" />
 
 - 👩‍💻 Assistant Data Engineer at **PepsiCo**
   
@@ -20,22 +20,20 @@
   
 - 🧠 Currently learning: **Python, SQL, Power BI, Excel**
 
-<br clear="both">
 
 ## 🔗 Connect With Me
-
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ankitasingh007/">
     <img src="https://img.shields.io/badge/LinkedIn-Ankita%20Singh-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <br>
-  <a href="mailto:ankita.singh.200020@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <br>
   <a href="https://github.com/AnkitaSinghIE/">
     <img src="https://img.shields.io/badge/GitHub-Profile-green?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <br>
+  <a href="mailto:ankita.singh.200020@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -43,6 +41,7 @@
 
 ## 🌐 Portfolio & Links
 
+<img align="right" width="500" height="95" alt="Designer"  src="https://github.com/user-attachments/assets/bc7861fd-c86b-4c9d-b0cc-769659ea8afc"  />
 
 - 👨‍💻 [GitHub Projects](https://github.com/AnkitaSinghIE/)
 - 🌐 [Portfolio Website](https://ankita-singh-2mc1e19.gamma.site/)
@@ -95,7 +94,5 @@
 ✨ *"Data is the new oil, but insights are the real power!"*
 
 ---
-<img align="right" width="450" height="120" alt="Designer"  src="https://github.com/user-attachments/assets/bc7861fd-c86b-4c9d-b0cc-769659ea8afc"  />
-<img align="right" width="450" height="120" alt="Designer" src="https://github.com/user-attachments/assets/e5756660-54e5-47d1-83b4-38576140a77f"  />
 
 
