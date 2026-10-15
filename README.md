@@ -41,7 +41,7 @@
 
 ## 🌐 Portfolio & Links
 
-<img align="right" width="500" height="95" alt="Designer"  src="https://github.com/user-attachments/assets/bc7861fd-c86b-4c9d-b0cc-769659ea8afc"  />
+<img align="right" width="500" height="85" alt="Designer"  src="https://github.com/user-attachments/assets/bc7861fd-c86b-4c9d-b0cc-769659ea8afc"  />
 
 - 👨‍💻 [GitHub Projects](https://github.com/AnkitaSinghIE/)
 - 🌐 [Portfolio Website](https://ankita-singh-2mc1e19.gamma.site/)
