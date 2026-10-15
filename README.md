@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ankita Singh</h1>
+
 <h3 align="center">🚀 Data Engineer | 📊 Analytics Enthusiast | 🔍 Problem Solver</h3>
+
 <p align="center">Passionate about transforming data into meaningful insights</p>
 
 ---
 
 ## 🌍 About Me
 
-<img align="right" width="450" height="360" alt="Designer" src="https://github.com/user-attachments/assets/7e5e4e2a-1cb8-4593-a02a-36426e640b90" />
+<img align="right" width="500" height="350" alt="Designer" src="https://github.com/user-attachments/assets/7e5e4e2a-1cb8-4593-a02a-36426e640b90" />
 
 - 👩‍💻 Assistant Data Engineer at **PepsiCo**
 - 🙋‍♀️ Former **Microsoft Learn Student Ambassador**
@@ -14,21 +16,21 @@
 - 🙌 Strong believer in **collaborative learning**
 - 🧠 Currently learning: **Python, SQL, Power BI, Excel**
 
----
+<br clear="both">
 
 ## 🔗 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ankitasingh007/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ankita%20Singh-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Ankita%20Singh-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-    <br>
+  <br>
   <a href="mailto:ankita.singh.200020@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <br>
   <a href="https://github.com/AnkitaSinghIE/">
-    <img src="https://img.shields.io/badge/GitHub-Profile-green?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-green?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -45,33 +47,38 @@
 ## 🎓 Certifications
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/></p>
-  <img src="https://img.shields.io/badge/DP--900-Azure_Data_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI--900-Azure_AI_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-900 Azure Fundamentals" />
+  <br>
+  <img src="https://img.shields.io/badge/DP--900-Azure_Data_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="DP-900 Azure Data Fundamentals" />
+  <br>
+  <img src="https://img.shields.io/badge/AI--900-Azure_AI_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AI-900 Azure AI Fundamentals" />
 </p>
 
 ---
 
 ## 🏆 Achievements
-![](https://komarev.com/ghpvc/?username=AnkitaSinghIE&color=blue&style=flat)
+
+![Profile Views](https://komarev.com/ghpvc/?username=AnkitaSinghIE&color=blue&style=flat)
 
 <p align="left">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO Achievement" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" alt="Quickdraw Achievement" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" alt="Pair Extraordinaire Achievement" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark Achievement" />
 </p>
 
 ---
 
 ## 💻 Tech Stack
 
-<p align="left">  
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,azure,java,javascript" />
+<p align="left">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,azure,java,javascript" alt="Tech Stack" />
 </p>
 
 ---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=AnkitaSinghIE&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AnkitaSinghIE&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -82,3 +89,4 @@
 ✨ *"Data is the new oil, but insights are the real power!"*
 
 ---
+
