@@ -63,9 +63,8 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Trophies
 
-![Profile Views](https://komarev.com/ghpvc/?username=AnkitaSinghIE&color=blue&style=flat)
 
 <p align="left">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO Achievement" />
@@ -96,5 +95,3 @@
 ✨ *"Data is the new oil, but insights are the real power!"*
 
 ---
-
-
