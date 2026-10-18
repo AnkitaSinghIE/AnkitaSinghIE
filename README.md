@@ -51,7 +51,7 @@
 
 ## 🎓 Certifications
 
-<img align="right" width="150" height="115" alt="Designer" src="https://github.com/user-attachments/assets/dfb70ec8-c69f-43df-9644-7f4e466fd8da" />
+<img align="left" width="150" height="115" alt="Designer" src="https://github.com/user-attachments/assets/dfb70ec8-c69f-43df-9644-7f4e466fd8da" />
 
 <p align="left">
   <img src="https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-900 Azure Fundamentals" />
